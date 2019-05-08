@@ -1,2 +1,2 @@
 # simpleServerRebooter
-Simple program to for rebooting server using ssh connection
+Simple script for sending 'reboot' command on server using ssh connection
